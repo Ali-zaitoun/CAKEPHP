@@ -1,0 +1,522 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-25 23:00+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/Admin/UsersController.php:20
+#: ./src/Controller/Admin/UsersController.php:118
+#: ./src/Controller/Admin/UsersController.php:163
+msgid "The user has been saved."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:122
+#: ./src/Controller/Admin/UsersController.php:167
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:188
+msgid "The user has been deleted."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:190
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/Admin/UsersController.php:206
+msgid "The user status has changed."
+msgstr ""
+
+#: ./src/Controller/CategoriesController.php:53
+#: ./src/Controller/CategoriesController.php:77
+msgid "The category has been saved."
+msgstr ""
+
+#: ./src/Controller/CategoriesController.php:57
+#: ./src/Controller/CategoriesController.php:81
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/CategoriesController.php:98
+msgid "The category has been deleted."
+msgstr ""
+
+#: ./src/Controller/CategoriesController.php:100
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/MenusController.php:53
+#: ./src/Controller/MenusController.php:77
+msgid "The menu has been saved."
+msgstr ""
+
+#: ./src/Controller/MenusController.php:57
+#: ./src/Controller/MenusController.php:81
+msgid "The menu could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/MenusController.php:98
+msgid "The menu has been deleted."
+msgstr ""
+
+#: ./src/Controller/MenusController.php:100
+msgid "The menu could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/ProductsController.php:57
+#: ./src/Controller/ProductsController.php:82
+msgid "The product has been saved."
+msgstr ""
+
+#: ./src/Controller/ProductsController.php:61
+#: ./src/Controller/ProductsController.php:86
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/ProductsController.php:104
+msgid "The product has been deleted."
+msgstr ""
+
+#: ./src/Controller/ProductsController.php:106
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/ProfilesController.php:56
+#: ./src/Controller/ProfilesController.php:81
+msgid "The profile has been saved."
+msgstr ""
+
+#: ./src/Controller/ProfilesController.php:60
+#: ./src/Controller/ProfilesController.php:85
+msgid "The profile could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/ProfilesController.php:103
+msgid "The profile has been deleted."
+msgstr ""
+
+#: ./src/Controller/ProfilesController.php:105
+msgid "The profile could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/StudentsController.php:52
+#: ./src/Controller/StudentsController.php:76
+msgid "The student has been saved."
+msgstr ""
+
+#: ./src/Controller/StudentsController.php:56
+#: ./src/Controller/StudentsController.php:80
+msgid "The student could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/StudentsController.php:97
+msgid "The student has been deleted."
+msgstr ""
+
+#: ./src/Controller/StudentsController.php:99
+msgid "The student could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/SubmenusController.php:56
+#: ./src/Controller/SubmenusController.php:81
+msgid "The submenu has been saved."
+msgstr ""
+
+#: ./src/Controller/SubmenusController.php:60
+#: ./src/Controller/SubmenusController.php:85
+msgid "The submenu could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/SubmenusController.php:103
+msgid "The submenu has been deleted."
+msgstr ""
+
+#: ./src/Controller/SubmenusController.php:105
+msgid "The submenu could not be deleted. Please, try again."
+msgstr ""
+
+#: ./templates/Admin/Users/add.php:10
+#: ./templates/Admin/Users/edit.php:10
+#: ./templates/Admin/Users/index.php:33
+#: ./templates/Admin/Users/view.php:10
+#: ./templates/Categories/add.php:10
+#: ./templates/Categories/edit.php:10
+#: ./templates/Categories/index.php:17
+#: ./templates/Categories/view.php:10
+#: ./templates/Categories/view.php:45
+#: ./templates/Products/add.php:11
+#: ./templates/Products/edit.php:11
+#: ./templates/Products/index.php:19
+#: ./templates/Products/view.php:10
+#: ./templates/Profiles/add.php:11
+#: ./templates/Profiles/edit.php:11
+#: ./templates/Profiles/index.php:19
+#: ./templates/Profiles/view.php:10
+#: ./templates/Students/add.php:10
+#: ./templates/Students/edit.php:10
+#: ./templates/Students/index.php:20
+#: ./templates/Students/view.php:10
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Admin/Users/add.php:11
+#: ./templates/Admin/Users/edit.php:16
+#: ./templates/Admin/Users/view.php:13
+msgid "List Users"
+msgstr ""
+
+#: ./templates/Admin/Users/add.php:18
+msgid "Add User"
+msgstr ""
+
+#: ./templates/Admin/Users/add.php:33
+#: ./templates/Admin/Users/edit.php:33
+#: ./templates/Categories/add.php:23
+#: ./templates/Categories/edit.php:28
+#: ./templates/Products/add.php:25
+#: ./templates/Products/edit.php:30
+#: ./templates/Profiles/add.php:25
+#: ./templates/Profiles/edit.php:30
+#: ./templates/Students/add.php:27
+#: ./templates/Students/edit.php:32
+msgid "Submit"
+msgstr ""
+
+#: ./templates/Admin/Users/edit.php:12
+#: ./templates/Admin/Users/index.php:60
+#: ./templates/Categories/edit.php:12
+#: ./templates/Categories/index.php:29
+#: ./templates/Categories/view.php:57
+#: ./templates/Products/edit.php:13
+#: ./templates/Products/index.php:33
+#: ./templates/Profiles/edit.php:13
+#: ./templates/Profiles/index.php:33
+#: ./templates/Students/edit.php:12
+#: ./templates/Students/index.php:35
+msgid "Delete"
+msgstr ""
+
+#: ./templates/Admin/Users/edit.php:14
+#: ./templates/Admin/Users/index.php:60
+#: ./templates/Admin/Users/view.php:12
+#: ./templates/Categories/edit.php:14
+#: ./templates/Categories/index.php:29
+#: ./templates/Categories/view.php:12
+#: ./templates/Categories/view.php:57
+#: ./templates/Products/edit.php:15
+#: ./templates/Products/index.php:33
+#: ./templates/Products/view.php:12
+#: ./templates/Profiles/edit.php:15
+#: ./templates/Profiles/index.php:33
+#: ./templates/Profiles/view.php:12
+#: ./templates/Students/edit.php:14
+#: ./templates/Students/index.php:35
+#: ./templates/Students/view.php:12
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Admin/Users/edit.php:23
+#: ./templates/Admin/Users/view.php:11
+msgid "Edit User"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:9
+#: ./templates/Admin/Users/view.php:14
+msgid "New User"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:10
+msgid "Users"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:51
+msgid "Inactive"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:51
+msgid "Are you sure you want to Inactive # {0}?"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:53
+msgid "Active"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:53
+msgid "Are you sure you want to Active # {0}?"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:58
+#: ./templates/Categories/index.php:27
+#: ./templates/Categories/view.php:55
+#: ./templates/Products/index.php:31
+#: ./templates/Profiles/index.php:31
+#: ./templates/Students/index.php:33
+msgid "View"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:59
+#: ./templates/Categories/index.php:28
+#: ./templates/Categories/view.php:56
+#: ./templates/Products/index.php:32
+#: ./templates/Profiles/index.php:32
+#: ./templates/Students/index.php:34
+msgid "Edit"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:71
+#: ./templates/Categories/index.php:38
+#: ./templates/Products/index.php:42
+#: ./templates/Profiles/index.php:42
+#: ./templates/Students/index.php:44
+msgid "first"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:72
+#: ./templates/Categories/index.php:39
+#: ./templates/Products/index.php:43
+#: ./templates/Profiles/index.php:43
+#: ./templates/Students/index.php:45
+msgid "previous"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:74
+#: ./templates/Categories/index.php:41
+#: ./templates/Products/index.php:45
+#: ./templates/Profiles/index.php:45
+#: ./templates/Students/index.php:47
+msgid "next"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:75
+#: ./templates/Categories/index.php:42
+#: ./templates/Products/index.php:46
+#: ./templates/Profiles/index.php:46
+#: ./templates/Students/index.php:48
+msgid "last"
+msgstr ""
+
+#: ./templates/Admin/Users/index.php:77
+#: ./templates/Categories/index.php:44
+#: ./templates/Products/index.php:48
+#: ./templates/Profiles/index.php:48
+#: ./templates/Students/index.php:50
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:12
+msgid "Delete User"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:22
+msgid "Username"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:26
+msgid "Email"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:30
+msgid "Image"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:34
+#: ./templates/Categories/view.php:26
+#: ./templates/Categories/view.php:40
+#: ./templates/Products/view.php:30
+#: ./templates/Profiles/view.php:26
+#: ./templates/Students/view.php:30
+msgid "Id"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:38
+msgid "Amount"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:42
+msgid "Status"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:46
+#: ./templates/Categories/view.php:30
+#: ./templates/Categories/view.php:43
+#: ./templates/Products/view.php:34
+#: ./templates/Profiles/view.php:34
+msgid "Created"
+msgstr ""
+
+#: ./templates/Admin/Users/view.php:50
+#: ./templates/Categories/view.php:44
+#: ./templates/Products/view.php:38
+#: ./templates/Profiles/view.php:38
+msgid "Modified"
+msgstr ""
+
+#: ./templates/Categories/add.php:11
+#: ./templates/Categories/edit.php:16
+#: ./templates/Categories/view.php:13
+msgid "List Categories"
+msgstr ""
+
+#: ./templates/Categories/add.php:18
+msgid "Add Category"
+msgstr ""
+
+#: ./templates/Categories/edit.php:23
+#: ./templates/Categories/view.php:11
+msgid "Edit Category"
+msgstr ""
+
+#: ./templates/Categories/index.php:8
+#: ./templates/Categories/view.php:14
+msgid "New Category"
+msgstr ""
+
+#: ./templates/Categories/index.php:9
+msgid "Categories"
+msgstr ""
+
+#: ./templates/Categories/view.php:12
+msgid "Delete Category"
+msgstr ""
+
+#: ./templates/Categories/view.php:22
+#: ./templates/Categories/view.php:41
+#: ./templates/Products/view.php:22
+#: ./templates/Students/view.php:22
+msgid "Name"
+msgstr ""
+
+#: ./templates/Categories/view.php:35
+msgid "Related Products"
+msgstr ""
+
+#: ./templates/Categories/view.php:42
+msgid "Category Id"
+msgstr ""
+
+#: ./templates/Products/add.php:12
+#: ./templates/Products/edit.php:17
+#: ./templates/Products/view.php:13
+msgid "List Products"
+msgstr ""
+
+#: ./templates/Products/add.php:19
+msgid "Add Product"
+msgstr ""
+
+#: ./templates/Products/edit.php:24
+#: ./templates/Products/view.php:11
+msgid "Edit Product"
+msgstr ""
+
+#: ./templates/Products/index.php:8
+#: ./templates/Products/view.php:14
+msgid "New Product"
+msgstr ""
+
+#: ./templates/Products/index.php:9
+msgid "Products"
+msgstr ""
+
+#: ./templates/Products/view.php:12
+msgid "Delete Product"
+msgstr ""
+
+#: ./templates/Products/view.php:26
+msgid "Category"
+msgstr ""
+
+#: ./templates/Profiles/add.php:12
+#: ./templates/Profiles/edit.php:17
+#: ./templates/Profiles/view.php:13
+msgid "List Profiles"
+msgstr ""
+
+#: ./templates/Profiles/add.php:19
+msgid "Add Profile"
+msgstr ""
+
+#: ./templates/Profiles/edit.php:24
+#: ./templates/Profiles/view.php:11
+msgid "Edit Profile"
+msgstr ""
+
+#: ./templates/Profiles/index.php:8
+#: ./templates/Profiles/view.php:14
+msgid "New Profile"
+msgstr ""
+
+#: ./templates/Profiles/index.php:9
+msgid "Profiles"
+msgstr ""
+
+#: ./templates/Profiles/view.php:12
+msgid "Delete Profile"
+msgstr ""
+
+#: ./templates/Profiles/view.php:22
+msgid "User"
+msgstr ""
+
+#: ./templates/Profiles/view.php:30
+msgid "Mobile"
+msgstr ""
+
+#: ./templates/Students/add.php:11
+#: ./templates/Students/edit.php:16
+#: ./templates/Students/view.php:13
+msgid "List Students"
+msgstr ""
+
+#: ./templates/Students/add.php:18
+msgid "Add Student"
+msgstr ""
+
+#: ./templates/Students/edit.php:23
+#: ./templates/Students/view.php:11
+msgid "Edit Student"
+msgstr ""
+
+#: ./templates/Students/index.php:8
+#: ./templates/Students/view.php:14
+msgid "New Student"
+msgstr ""
+
+#: ./templates/Students/index.php:9
+msgid "Students"
+msgstr ""
+
+#: ./templates/Students/view.php:12
+msgid "Delete Student"
+msgstr ""
+
+#: ./templates/Students/view.php:26
+msgid "Country"
+msgstr ""
+
+#: ./templates/Students/view.php:34
+msgid "Age"
+msgstr ""
+
+#: ./templates/Students/view.php:38
+msgid "Created At"
+msgstr ""
+
+#: ./templates/Students/view.php:42
+msgid "Updated At"
+msgstr ""
+
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr ""
+
